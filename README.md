@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on GeeksForGeeks
+- 🔭 I’m currently working at GeeksForGeeks
 - 🌱 I’m currently learning DSA 
 - 💬 Ask me about Node js , React , mongodb ,php
 - 📫 How to reach me: disha55handa@gmail.com
