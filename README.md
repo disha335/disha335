@@ -6,8 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out my portfolio at [disha335.github.io](https://disha335.github.io/)
-- 🔭 I’m currently working at Gemini Solutions Pvt Ltd
--  🌱 I’m currently playing with Nest JS
+- 🔭 I’m currently studying at KIET Group Of Institutions
 - 💬 Ask me about Node js , React , mongodb ,php
 - 📫 Connect with me at **disha55handa@gmail.com**
 
