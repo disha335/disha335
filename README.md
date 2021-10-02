@@ -8,6 +8,7 @@
 - 👨‍💻 You can also check out my portfolio at [disha335.github.io](https://disha335.github.io/)
 - 🔭 I’m currently studying at KIET Group Of Institutions
 - 📫 Connect with me at **disha55handa@gmail.com**
+- 🔭 Fun fact - Code can't lie , comments can :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
