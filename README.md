@@ -7,7 +7,6 @@
 
 - 👨‍💻 You can also check out my portfolio at [disha335.github.io](https://disha335.github.io/)
 - 🔭 I’m currently studying at KIET Group Of Institutions
-- 💬 Ask me about Node js , React , mongodb ,php
 - 📫 Connect with me at **disha55handa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
