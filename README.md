@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out my portfolio at [disha335.github.io](https://disha335.github.io/)
-- 🔭 I’m currently studying at KIET Group Of Institutions
+- 🔭 I’m currently working at Gemini Solutions
 - 📫 Connect with me at **disha55handa@gmail.com**
 - 🔭 Fun fact - Code can't lie , comments can :D
 
